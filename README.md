@@ -163,6 +163,7 @@ One has to follow these steps to use ShopEasy app and get familier with it:
 
  - Login screen might not render properly on some devices because every device has different resolution. Device with small screen size may have this bug.
  - No Online Payment gateway has been added till now. Currently you can only order through Cash on delievery. Online payment gateways will be added in further releases.
+ - Push Notification is disabled for now. 
 
 
 ## Troubleshooting
