@@ -1,0 +1,86 @@
+name: matrix
+description: ShopEasy, an Ecommerce App from flutter made for Codecamp Hackathon.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+module:
+  androidX: true
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^0.4.4+3g
+  date_field: ^0.1.2
+  datetime_picker_formfield: ^1.0.0
+  cloud_firestore: ^0.13.5
+  firebase_auth: ^0.16.0
+  google_sign_in: ^4.4.4
+  flutter_facebook_login: ^3.0.0
+  flutter_bloc: ^4.0.0
+  rxdart: ^0.24.0
+  dropdown_formfield: ^0.1.2
+
+  equatable: ^1.1.1
+  meta: ^1.1.8
+
+  flutter_staggered_grid_view: ^0.3.0
+  flutter_slidable: ^0.5.4
+  auto_size_text: ^2.1.0
+  cupertino_icons: ^0.1.3
+  flutter_sparkline: ^0.1.0
+  multi_image_picker: ^4.6.7
+  firebase_storage: ^3.1.5
+  uuid: ^2.0.4
+  extended_image: ^0.7.3+1
+  cloud_functions: ^0.4.2+3
+
+  flutter_webview_plugin: ^0.3.11
+  fluttertoast: ^4.0.1
+  shared_preferences: ^0.5.7
+  flutter_svg: ^0.17.4
+
+  intl: ^0.16.1
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.7.4"
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/intro/
+    - assets/womens.jpg
+    - assets/colors.json
+    - assets/lang/en.json
+
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/Quicksand-Regular.ttf
+        - asset: assets/Quicksand-Bold.ttf
+        - asset: assets/Quicksand-Light.ttf
+        - asset: assets/Quicksand-Medium.ttf
+    - family: Moserrat
+      fonts:
+        - asset: assets/Montserrat-Medium.ttf
+        - asset: assets/Montserrat-Regular.ttf
+        - asset: assets/Montserrat-SemiBold.ttf
+    - family: Viksi
+      fonts:
+        - asset: assets/Viksi.ttf
+
+    - family: Fashion
+      fonts:
+        - asset: assets/Fashion.ttf
