@@ -1,4 +1,4 @@
-# ShopEasy App (95% Completed)
+# ShopEasy App (100% Completed)
 ## Flutter App made by Team MATRIX using Firebase for CodeCamp 1.0
 
 ![shopEasy](https://github.com/sarthak290/ShopEasy/blob/master/assets/lo2.PNG)
@@ -161,7 +161,7 @@ One has to follow these steps to use ShopEasy app and get familier with it:
 
 ## Known bugs
 
- - Login screen might not render properly on some devices because every device has different resolution. Device with small screen size may have this bug.
+ - Dont't forgot add to slider image while adding Sliders.
  - No Online Payment gateway has been added till now. Currently you can only order through Cash on delievery. Online payment gateways will be added in further releases.
  - Push Notification is disabled for now. 
 
