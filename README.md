@@ -1,5 +1,5 @@
 # ShopEasy App (100% Completed)
-## Flutter App made by Team MATRIX using Firebase for CodeCamp 1.0
+## Flutter App made by Sarthak Bhatnagar using Firebase
 
 ![shopEasy](https://github.com/sarthak290/ShopEasy/blob/master/assets/lo2.PNG)
 
