@@ -12,7 +12,7 @@
 	"main": "lib/index.js",
 	"dependencies": {
 		"@sendgrid/mail": "^6.4.0",
-		"axios": "^0.19.0",
+		"axios": "^0.21.1",
 		"firebase-admin": "~8.6.1",
 		"firebase-functions": "^3.3.0",
 		"lodash": "^4.17.19"
